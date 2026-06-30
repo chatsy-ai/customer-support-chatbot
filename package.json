@@ -1,0 +1,27 @@
+{
+  "name": "chatsy-ai-customer-support-chatbot",
+  "version": "1.0.0",
+  "description": "Customer Support Chatbot automates customer support with a 24/7 AI chatbot that increases sales and reduces tickets",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "customer-support",
+    "chatbot",
+    "ai",
+    "helpdesk",
+    "automation",
+    "no-code",
+    "saas",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Chatsy",
+  "license": "ISC",
+  "homepage": "https://chatsy.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chatsy-ai/customer-support-chatbot.git"
+  }
+}
